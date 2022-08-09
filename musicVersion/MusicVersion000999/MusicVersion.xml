@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicVersionData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>MusicVersion000999</dataName>
+  <name>
+    <id>999</id>
+    <str>CUSTOM</str>
+  </name>
+  <genreName>CUSTOM CHARTS</genreName>
+  <genreNameTwoLine>CUSTOM CHARTS</genreNameTwoLine>
+  <version>00000</version>
+  <Color>
+    <R>223</R>
+    <G>70</G>
+    <B>174</B>
+  </Color>
+  <FileName>custom.png</FileName>
+  <priority>0</priority>
+  <disable>false</disable>
+</MusicVersionData>
