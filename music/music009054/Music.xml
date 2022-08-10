@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music009054</dataName>
+  <netOpenName>
+    <id>220324</id>
+    <str>Net220324</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>2501</id>
+    <str>Ver1.25.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>09054</id>
+    <str>YONA YONA DANCE</str>
+  </name>
+  <rightsInfoName>
+    <id>127</id>
+    <str>Licensed by Virgin Music, A UNIVERSAL MUSIC COMPANY</str>
+  </rightsInfoName>
+  <sortName>YONAYONADANCE</sortName>
+  <artistName>
+    <id>783</id>
+    <str>和田アキ子</str>
+  </artistName>
+  <genreName>
+    <id>101</id>
+    <str>POPSアニメ</str>
+  </genreName>
+  <bpm>145</bpm>
+  <version>22501</version>
+  <AddVersion>
+    <id>18</id>
+    <str>UNiVERSEPLUS</str>
+  </AddVersion>
+  <movieName>
+    <id>1450</id>
+    <str>YONA YONA DANCE</str>
+  </movieName>
+  <cueName>
+    <id>09054</id>
+    <str>YONA YONA DANCE</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>22032421</id>
+    <str>220324_02_1</str>
+  </eventName>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>1</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>009054_00.ma2</path>
+      </file>
+      <level>1</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>1</musicLevelID>
+      <maxNotes>98</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009054_01.ma2</path>
+      </file>
+      <level>6</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>318</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009054_02.ma2</path>
+      </file>
+      <level>9</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>56</id>
+        <str>隅田川星人</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>11</musicLevelID>
+      <maxNotes>504</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009054_03.ma2</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>2</id>
+        <str>はっぴー</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>667</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009054_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009054_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>
