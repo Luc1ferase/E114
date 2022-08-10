@@ -20,8 +20,8 @@
     <str>Daily天利</str>
   </artistName>
   <genreName>
-    <id>101</id>
-    <str>POPS＆アニメ</str>
+    <id>104</id>
+    <str>ゲームバラエティ</str>
   </genreName>
   <bpm>200</bpm>
   <version>22501</version>
@@ -100,7 +100,7 @@
         <path>009058_03.ma2</path>
       </file>
       <level>13</level>
-      <levelDecimal>4</levelDecimal>
+      <levelDecimal>5</levelDecimal>
       <notesDesigner>
         <id>1009058</id>
         <str>雪魚宝</str>
