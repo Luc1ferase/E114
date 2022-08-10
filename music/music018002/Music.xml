@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music018001</dataName>
+  <dataName>music018002</dataName>
   <netOpenName>
     <id>220324</id>
     <str>Net220324</str>
@@ -11,31 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>18001</id>
-    <str>See The Light</str>
+    <id>18002</id>
+    <str>気ままな天使たち</str>
   </name>
-  <sortName>SEETHELIGHT</sortName>
+  <sortName>KimamanaTenshitachi</sortName>
   <artistName>
     <id>1001</id>
-    <str>anubasu-anubasu</str>
+    <str>わたてん☆５</str>
   </artistName>
   <genreName>
-    <id>106</id>
-    <str>オンゲキCHUNITHM</str>
+    <id>101</id>
+    <str>POPS＆アニメ</str>
   </genreName>
-  <bpm>150</bpm>
+  <bpm>126</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>18001</id>
-    <str>See The Light</str>
+    <id>18002</id>
+    <str>気ままな天使たち</str>
   </movieName>
   <cueName>
-    <id>08001</id>
-    <str>See The Light</str>
+    <id>08002</id>
+    <str>気ままな天使たち</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -52,7 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>018001_00.ma2</path>
+        <path>018002_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -67,7 +67,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>018001_01.ma2</path>
+        <path>018002_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -82,7 +82,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>018001_02.ma2</path>
+        <path>018002_02.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -97,37 +97,37 @@
     </Notes>
     <Notes>
       <file>
-        <path>018001_03.ma2</path>
+        <path>018002_03.ma2</path>
       </file>
-      <level>13</level>
-      <levelDecimal>7</levelDecimal>
+      <level>12</level>
+      <levelDecimal>3</levelDecimal>
       <notesDesigner>
-        <id>1018001</id>
-        <str>Karuma-100号</str>
+        <id>1018002</id>
+        <str>MonitzMorich</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>20</musicLevelID>
-      <maxNotes>942</maxNotes>
+      <musicLevelID>18</musicLevelID>
+      <maxNotes>427</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>018001_04.ma2</path>
+        <path>018002_04.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>0</id>
-        <str />
+        <id>1018002</id>
+        <str>MonitzMorich</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <maxNotes>429</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>018001_05.ma2</path>
+        <path>018002_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
