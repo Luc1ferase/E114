@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music009002</dataName>
+  <netOpenName>
+    <id>220324</id>
+    <str>Net220324</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>2501</id>
+    <str>Ver1.25.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>09060</id>
+    <str>Made In Love</str>
+  </name>
+  <sortName>9060</sortName>
+  <artistName>
+    <id>1001</id>
+    <str>黒魔</str>
+  </artistName>
+  <genreName>
+    <id>104</id>
+    <str>ゲームバラエティ</str>
+  </genreName>
+  <bpm>88</bpm>
+  <version>22501</version>
+  <AddVersion>
+    <id>999</id>
+    <str>CUSTOM</str>
+  </AddVersion>
+  <movieName>
+    <id>19060</id>
+    <str>Made In Love</str>
+  </movieName>
+  <cueName>
+    <id>09060</id>
+    <str>Made In Love</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>1</id>
+    <str>無期限常時解放</str>
+  </eventName>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>09060_00.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>09060_01.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>09060_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009060_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>1009060</id>
+        <str>S.R. project</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>497</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009060_04.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>1009060</id>
+        <str>S.R. project</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>593</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009002_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>
