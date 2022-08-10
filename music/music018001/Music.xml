@@ -99,21 +99,6 @@
       <file>
         <path>008001_03.ma2</path>
       </file>
-      <level>0</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>0</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>008001_04.ma2</path>
-      </file>
       <level>13</level>
       <levelDecimal>7</levelDecimal>
       <notesDesigner>
@@ -124,6 +109,21 @@
       <musicLevelID>21</musicLevelID>
       <maxNotes>942</maxNotes>
       <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>008001_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
     </Notes>
     <Notes>
       <file>
