@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <dataName>music009054</dataName>
+  <dataName>music009002</dataName>
   <netOpenName>
     <id>220324</id>
     <str>Net220324</str>
@@ -11,35 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>09054</id>
-    <str>YONA YONA DANCE</str>
+    <id>19055</id>
+    <str>First Snow</str>
   </name>
-  <rightsInfoName>
-    <id>127</id>
-    <str>Licensed by Virgin Music, A UNIVERSAL MUSIC COMPANY</str>
-  </rightsInfoName>
-  <sortName>YONAYONADANCE</sortName>
+  <sortName>9055</sortName>
   <artistName>
-    <id>783</id>
-    <str>和田アキ子</str>
+    <id>1001</id>
+    <str>Chroma</str>
   </artistName>
   <genreName>
-    <id>101</id>
-    <str>POPSアニメ</str>
+    <id>104</id>
+    <str>ゲームバラエティ</str>
   </genreName>
-  <bpm>145</bpm>
+  <bpm>88</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>1450</id>
-    <str>YONA YONA DANCE</str>
+    <id>19055</id>
+    <str>First Snow</str>
   </movieName>
   <cueName>
-    <id>09054</id>
-    <str>YONA YONA DANCE</str>
+    <id>9055</id>
+    <str>First Snow</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -56,67 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>009054_00.ma2</path>
-      </file>
-      <level>1</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>0</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>1</musicLevelID>
-      <maxNotes>98</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>009054_01.ma2</path>
-      </file>
-      <level>6</level>
-      <levelDecimal>5</levelDecimal>
-      <notesDesigner>
-        <id>0</id>
-        <str />
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>6</musicLevelID>
-      <maxNotes>318</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>009054_02.ma2</path>
-      </file>
-      <level>9</level>
-      <levelDecimal>0</levelDecimal>
-      <notesDesigner>
-        <id>56</id>
-        <str>隅田川星人</str>
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>11</musicLevelID>
-      <maxNotes>504</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>009054_03.ma2</path>
-      </file>
-      <level>12</level>
-      <levelDecimal>5</levelDecimal>
-      <notesDesigner>
-        <id>2</id>
-        <str>はっぴー</str>
-      </notesDesigner>
-      <notesType>0</notesType>
-      <musicLevelID>17</musicLevelID>
-      <maxNotes>667</maxNotes>
-      <isEnable>true</isEnable>
-    </Notes>
-    <Notes>
-      <file>
-        <path>009054_04.ma2</path>
+        <path>19055_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -131,7 +67,67 @@
     </Notes>
     <Notes>
       <file>
-        <path>009054_05.ma2</path>
+        <path>19055_01.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>19055_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>019055_03.ma2</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>4</levelDecimal>
+      <notesDesigner>
+        <id>1019055</id>
+        <str>XF2717</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>534</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009002_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>009002_05.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>

@@ -11,31 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>09016</id>
-    <str>聴我説謝謝妳</str>
+    <id>19057</id>
+    <str>寂しいから君を想うんじゃない</str>
   </name>
-  <sortName>9016</sortName>
+  <sortName>9057</sortName>
   <artistName>
     <id>1001</id>
-    <str>none</str>
+    <str>otto</str>
   </artistName>
   <genreName>
     <id>101</id>
     <str>POPS＆アニメ</str>
   </genreName>
-  <bpm>82</bpm>
+  <bpm>150</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>19016</id>
-    <str>聴我説謝謝妳</str>
+    <id>19057</id>
+    <str>寂しいから君を想うんじゃない</str>
   </movieName>
   <cueName>
-    <id>09016</id>
-    <str>聴我説謝謝妳</str>
+    <id>9057</id>
+    <str>寂しいから君を想うんじゃない</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -52,7 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>09016_00.ma2</path>
+        <path>19057_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -67,9 +67,9 @@
     </Notes>
     <Notes>
       <file>
-        <path>09016_01.ma2</path>
+        <path>19057_01.ma2</path>
       </file>
-      <level>0</level>
+      <level>2</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
@@ -77,14 +77,14 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <maxNotes>616</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>09016_02.ma2</path>
+        <path>19057_02.ma2</path>
       </file>
-      <level>0</level>
+      <level>11</level>
       <levelDecimal>0</levelDecimal>
       <notesDesigner>
         <id>0</id>
@@ -92,22 +92,22 @@
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>0</musicLevelID>
-      <maxNotes>0</maxNotes>
-      <isEnable>false</isEnable>
+      <maxNotes>616</maxNotes>
+      <isEnable>true</isEnable>
     </Notes>
     <Notes>
       <file>
-        <path>009016_03.ma2</path>
+        <path>019057_03.ma2</path>
       </file>
-      <level>3</level>
-      <levelDecimal>2</levelDecimal>
+      <level>13</level>
+      <levelDecimal>4</levelDecimal>
       <notesDesigner>
-        <id>1009016</id>
-        <str>NanaNana</str>
+        <id>1019057</id>
+        <str>YInky</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>15</musicLevelID>
-      <maxNotes>90</maxNotes>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>616</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>

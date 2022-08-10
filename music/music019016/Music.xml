@@ -11,31 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>09032</id>
-    <str>Daisuke</str>
+    <id>19016</id>
+    <str>聴我説謝謝妳</str>
   </name>
-  <sortName>9032</sortName>
+  <sortName>9016</sortName>
   <artistName>
     <id>1001</id>
-    <str>Y&Co.</str>
+    <str>none</str>
   </artistName>
   <genreName>
-    <id>104</id>
-    <str>ゲームバラエティ</str>
+    <id>101</id>
+    <str>POPS＆アニメ</str>
   </genreName>
-  <bpm>157</bpm>
+  <bpm>82</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>19032</id>
-    <str>Daisuke</str>
+    <id>19016</id>
+    <str>聴我説謝謝妳</str>
   </movieName>
   <cueName>
-    <id>09032</id>
-    <str>Daisuke</str>
+    <id>09016</id>
+    <str>聴我説謝謝妳</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -52,7 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>09032_00.ma2</path>
+        <path>19016_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -67,7 +67,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09032_01.ma2</path>
+        <path>19016_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -82,7 +82,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09032_02.ma2</path>
+        <path>19016_02.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -97,17 +97,17 @@
     </Notes>
     <Notes>
       <file>
-        <path>009032_03.ma2</path>
+        <path>019016_03.ma2</path>
       </file>
-      <level>13</level>
-      <levelDecimal>8</levelDecimal>
+      <level>3</level>
+      <levelDecimal>2</levelDecimal>
       <notesDesigner>
-        <id>1009032</id>
-        <str>ArTisTic LeDan</str>
+        <id>1019016</id>
+        <str>NanaNana</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>20</musicLevelID>
-      <maxNotes>749</maxNotes>
+      <musicLevelID>15</musicLevelID>
+      <maxNotes>90</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>

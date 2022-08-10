@@ -11,31 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>09055</id>
-    <str>First Snow</str>
+    <id>19017</id>
+    <str>学園スペーシー</str>
   </name>
-  <sortName>9055</sortName>
+  <sortName>9017</sortName>
   <artistName>
     <id>1001</id>
-    <str>Chroma</str>
+    <str>ナユタン星人\P丸様</str>
   </artistName>
   <genreName>
-    <id>104</id>
-    <str>ゲームバラエティ</str>
+    <id>102</id>
+    <str>niconicoボーカロイド</str>
   </genreName>
-  <bpm>88</bpm>
+  <bpm>155</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>19055</id>
-    <str>First Snow</str>
+    <id>19017</id>
+    <str>学園スペーシー</str>
   </movieName>
   <cueName>
-    <id>09055</id>
-    <str>First Snow</str>
+    <id>9017</id>
+    <str>学園スペーシー</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -52,7 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>09055_00.ma2</path>
+        <path>19017_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -67,7 +67,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09055_01.ma2</path>
+        <path>19017_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -82,7 +82,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09055_02.ma2</path>
+        <path>19017_02.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -97,17 +97,17 @@
     </Notes>
     <Notes>
       <file>
-        <path>009055_03.ma2</path>
+        <path>019017_03.ma2</path>
       </file>
-      <level>12</level>
-      <levelDecimal>4</levelDecimal>
+      <level>13</level>
+      <levelDecimal>8</levelDecimal>
       <notesDesigner>
-        <id>1009055</id>
-        <str>XF2717</str>
+        <id>1019017</id>
+        <str>Nana</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>17</musicLevelID>
-      <maxNotes>534</maxNotes>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>1000</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>

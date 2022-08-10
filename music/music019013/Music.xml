@@ -11,31 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>09027</id>
-    <str>Arcahv</str>
+    <id>19013</id>
+    <str>LIME</str>
   </name>
-  <sortName>9027</sortName>
+  <sortName>9013</sortName>
   <artistName>
     <id>1001</id>
-    <str>Feryquitous</str>
+    <str>unknown</str>
   </artistName>
   <genreName>
     <id>104</id>
     <str>ゲームバラエティ</str>
   </genreName>
-  <bpm>95</bpm>
+  <bpm>227</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>19027</id>
-    <str>Arcahv</str>
+    <id>19013</id>
+    <str>LIME</str>
   </movieName>
   <cueName>
-    <id>09027</id>
-    <str>Arcahv</str>
+    <id>9013</id>
+    <str>LIME</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -52,7 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>09027_00.ma2</path>
+        <path>19013_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -67,7 +67,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09027_01.ma2</path>
+        <path>19013_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -82,7 +82,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09027_02.ma2</path>
+        <path>19013_02.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -97,17 +97,17 @@
     </Notes>
     <Notes>
       <file>
-        <path>009027_03.ma2</path>
+        <path>019013_03.ma2</path>
       </file>
       <level>14</level>
-      <levelDecimal>3</levelDecimal>
+      <levelDecimal>0</levelDecimal>
       <notesDesigner>
-        <id>1009027</id>
-        <str>LeDan</str>
+        <id>1019013</id>
+        <str>unknown</str>
       </notesDesigner>
       <notesType>0</notesType>
       <musicLevelID>21</musicLevelID>
-      <maxNotes>845</maxNotes>
+      <maxNotes>882</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>

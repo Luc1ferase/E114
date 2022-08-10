@@ -2,44 +2,6 @@
 <SerializeSortData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <dataName>music</dataName>
   <SortList>
-  <StringID>
-      <id>090010</id>
-      <str>Flashbang Dance</str>
-    </StringID>
-  <StringID>
-  <StringID>
-      <id>09009</id>
-      <str>Night Theater</str>
-    </StringID>
-  <StringID>
-  <StringID>
-      <id>09008</id>
-      <str>Nhelv</str>
-    </StringID>
-  <StringID>
-  <StringID>
-      <id>09007</id>
-      <str>Cyanine</str>
-    </StringID>
-  <StringID>
-  <StringID>
-      <id>09006</id>
-      <str>Axium Crisis</str>
-    </StringID>
-  <StringID>
-  <StringID>
-      <id>09005</id>
-      <str>Baqeela</str>
-    </StringID>
-  <StringID>
-  <StringID>
-      <id>09004</id>
-      <str>Alexandrite</str>
-    </StringID>
-  <StringID>
-      <id>09003</id>
-      <str>光速神授说 - Divine Light of Myriad -</str>
-    </StringID>
     <StringID>
       <id>19001</id>
       <str>朝君大跨捏一把</str>

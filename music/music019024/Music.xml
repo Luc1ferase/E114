@@ -11,31 +11,31 @@
   </releaseTagName>
   <disable>false</disable>
   <name>
-    <id>09017</id>
-    <str>学園スペーシー</str>
+    <id>19024</id>
+    <str>忘れじの言の葉</str>
   </name>
-  <sortName>9017</sortName>
+  <sortName>9024</sortName>
   <artistName>
     <id>1001</id>
-    <str>ナユタン星人\P丸様</str>
+    <str>安次嶺希和子</str>
   </artistName>
   <genreName>
-    <id>102</id>
-    <str>niconicoボーカロイド</str>
+    <id>101</id>
+    <str>POPS＆アニメ</str>
   </genreName>
-  <bpm>155</bpm>
+  <bpm>135</bpm>
   <version>22501</version>
   <AddVersion>
     <id>999</id>
     <str>CUSTOM</str>
   </AddVersion>
   <movieName>
-    <id>19017</id>
-    <str>学園スペーシー</str>
+    <id>19024</id>
+    <str>忘れじの言の葉</str>
   </movieName>
   <cueName>
-    <id>09017</id>
-    <str>学園スペーシー</str>
+    <id>9024</id>
+    <str>忘れじの言の葉</str>
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
@@ -52,7 +52,7 @@
   <notesData>
     <Notes>
       <file>
-        <path>09017_00.ma2</path>
+        <path>19024_00.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -67,7 +67,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09017_01.ma2</path>
+        <path>19024_01.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -82,7 +82,7 @@
     </Notes>
     <Notes>
       <file>
-        <path>09017_02.ma2</path>
+        <path>19024_02.ma2</path>
       </file>
       <level>0</level>
       <levelDecimal>0</levelDecimal>
@@ -97,17 +97,17 @@
     </Notes>
     <Notes>
       <file>
-        <path>009017_03.ma2</path>
+        <path>019024_03.ma2</path>
       </file>
       <level>13</level>
-      <levelDecimal>8</levelDecimal>
+      <levelDecimal>4</levelDecimal>
       <notesDesigner>
-        <id>1009017</id>
-        <str>Nana</str>
+        <id>1019024</id>
+        <str>bbben</str>
       </notesDesigner>
       <notesType>0</notesType>
-      <musicLevelID>20</musicLevelID>
-      <maxNotes>1000</maxNotes>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>535</maxNotes>
       <isEnable>true</isEnable>
     </Notes>
     <Notes>
