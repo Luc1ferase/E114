@@ -30,8 +30,8 @@
   <bpm>145</bpm>
   <version>22501</version>
   <AddVersion>
-    <id>18</id>
-    <str>UNiVERSEPLUS</str>
+    <id>999</id>
+    <str>CUSTOM</str>
   </AddVersion>
   <movieName>
     <id>1450</id>
@@ -43,8 +43,8 @@
   </cueName>
   <dresscode>false</dresscode>
   <eventName>
-    <id>22032421</id>
-    <str>220324_02_1</str>
+    <id>1</id>
+    <str>無期限常時解放</str>
   </eventName>
   <subEventName>
     <id>0</id>
