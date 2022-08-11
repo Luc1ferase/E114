@@ -1,0 +1,2 @@
+*.awb filter=lfs diff=lfs merge=lfs -text
+*.acb filter=lfs diff=lfs merge=lfs -text
